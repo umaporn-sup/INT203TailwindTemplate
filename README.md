@@ -1,1 +1,1 @@
-test 
+Tailwind Template 
